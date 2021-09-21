@@ -1,1 +1,1 @@
-xx
+server= remotemysql.com; userid=KFsEfOelRl; password=wyWRqI2TpB; database=KFsEfOelRl; charset=utf8;
