@@ -1,1 +1,1 @@
-server= sql11.freesqldatabase.com; userid=sql11438921; password=vbfKntuV5l; database=sql11438921; charset=utf8;
+server= remotemysql.com; userid=KFsEfOelRl; password=wyWRqI2TpB; database=KFsEfOelRl; charset=utf8;
